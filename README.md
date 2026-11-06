@@ -12,6 +12,7 @@ AI and full-stack software engineer based in Charlotte, NC. I build LLM-powered 
 ## Projects
 
 - [**AI Smart Security Monitoring System**](https://github.com/Pavanteja1706/AI-Smart-Security-System): YOLOv8 object detection, face recognition, email alerts, and a Flask dashboard, built in Python and OpenCV.
+- [ZERO Card Game](https://github.com/Pavanteja1706/ZERO-Card-Game): Browser card game with computer-controlled opponents (rule-based heuristics), built in JavaScript, HTML and CSS. [Play it live](https://pavanteja1706.github.io/ZERO-Card-Game/)
 
 ## Education
 
